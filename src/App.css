@@ -1,0 +1,9 @@
+#main{
+    margin: 50px;
+    height: 770px;
+    width: 2000px;
+    background-image: url(C:\Users\abhis\Downloads\mern\React\homer-work1\public\grunge-white-surface-rough-background-textured.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+}

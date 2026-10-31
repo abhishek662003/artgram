@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'blue';
+    src: url('../assets/Gondens DEMO.otf');
+}
+@font-face {
+    font-family: 'ramy';
+    src: url('../assets/Ranade-Variable.woff2');
+}
+
+
+.Nav{
+    padding: 30px;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.icon{
+    font-family:'blue';
+    font-weight: 100;
+    font-size: 35px;
+    flex: 0.7;
+
+}
+.Menu{
+
+       flex: 1; 
+       display: flex;
+       gap: 80px;
+}
+.Menu h3{
+    font-family:'ramy';
+    font-weight: 100;
+}
+.Cart{
+      font-family:'ramy';
+      font-weight: 100;
+       flex: 1; 
+}
+
+
