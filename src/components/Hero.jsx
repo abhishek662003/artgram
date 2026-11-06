@@ -1,11 +1,11 @@
-import head from "./Headline.jsx"
-import featuredwork from  "./FeaturedArtwork.jsx"
+import Headline from "./Headline.jsx"
+import FeaturedArtwork from  "./FeaturedArtwork.jsx"
 
 const Hero = () => {
   return (
     <div>
-    <head />
-    <featuredwork />
+    <Headline />
+    <FeaturedArtwork />
   </div>
   )
 }
