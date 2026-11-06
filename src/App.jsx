@@ -5,7 +5,11 @@ import Hero  from './components/Hero'
 
 const App = () => {
   return (
-      <Navbar/>
+    <div>
+          <Navbar/>
+          <Hero/>
+    </div>
+
   )
 }
 
