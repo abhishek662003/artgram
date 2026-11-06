@@ -1,1 +1,1 @@
-import 'Headline.css'
+import './Headline.css'
