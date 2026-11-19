@@ -2,7 +2,7 @@ import './Headline.css'
 
 const Headline = () => {
   return (
-    <div>Headline</div>
+    <div className='headline'>Headline</div>
   )
 }
 
