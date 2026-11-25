@@ -5,10 +5,10 @@ import Hero  from './components/Hero'
 
 const App = () => {
   return (
-    <div>
+    <>
           <Navbar/>
           <Hero/>
-    </div>
+    </>
 
   )
 }
