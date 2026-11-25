@@ -4,7 +4,7 @@
     min-height: 500px;
     width: calc(100% - 50px);
     max-width: 1400px;
-    background-image: url(\grunge-white-surface-rough-background-textured.jpg);
+    /* background-image: url(\grunge-white-surface-rough-background-textured.jpg); */
     background-position: center;
     background-size: cover;
     border-radius: 15px;

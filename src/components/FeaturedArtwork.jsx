@@ -2,7 +2,7 @@ import "./FeaturedArtwork.css"
 
 const FeaturedArtwork = () => {
   return (
-    <div className="featuredartworks">FeaturedArtwork</div>
+    <div className="featuredartworks"></div>
   )
 }
 
