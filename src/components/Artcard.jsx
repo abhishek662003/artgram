@@ -3,7 +3,7 @@
 function Artcard(props) {
   return (
     <div className="Artcard">
-        <img src="{props.image}" alt="" />
+        <img src={props.image} alt="" />
         <h3>{props.title}</h3>
         <p>{props.description}</p>
     </div>
