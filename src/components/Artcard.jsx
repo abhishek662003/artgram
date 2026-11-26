@@ -1,11 +1,11 @@
 
 
-function Artcard() {
+function Artcard(props) {
   return (
     <div className="Artcard">
-        <img src="" alt="" />
-        <h3></h3>
-        <p></p>
+        <img src="{props.image}" alt="" />
+        <h3>{props.title}</h3>
+        <p>{props.description}</p>
     </div>
   )
 }
