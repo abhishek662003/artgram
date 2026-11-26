@@ -1,6 +1,10 @@
 .featuredartworks{
     height: 100%;
     padding: 20px;
-    
+    display: flex; 
+    align-items: center;
+    justify-content: center;  
+    background-color: rgb(213, 71, 71);
+    gap: 90px; 
 
 }

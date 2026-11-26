@@ -1,4 +1,4 @@
-import "./Artcard"
+import "./Artcard.css"
 
 function Artcard(props) {
   return (
