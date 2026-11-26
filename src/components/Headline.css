@@ -1,10 +1,23 @@
-.headline{
-    background-color: aquamarine;
+.Headline{
     margin-top: 100px;
     height: 110px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     padding: 20px;
-    gap: 20px;
+}
+.Shop{
+    font-family:'blue';
+    font-weight: 100;
+    font-size: 35px;
+}
+.Categories{
+    display: flex;
+    gap: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.Categories a {
+   text-decoration: none;
+   color: black;
 }
