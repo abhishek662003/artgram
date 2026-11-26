@@ -5,7 +5,7 @@ const FeaturedArtwork = () => {
   return (
     <div className="featuredartworks">
         <Artcard
-    image="image1.jpg"
+    image="https://unsplash.com/illustrations/seamless-cubes-vector-background-lined-boxes-repeating-tile-pattern-3d-architecture-and-construction-geometric-design-q_QzDHxPvlI"
     title="Abstract Dreams"
     description="A colorful abstract painting"
   />
